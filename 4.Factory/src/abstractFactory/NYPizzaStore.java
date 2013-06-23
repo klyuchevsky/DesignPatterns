@@ -7,7 +7,7 @@ public class NYPizzaStore extends PizzaStore {
 
         if (item.equals("cheese")) {
             pizza = new CheesePizza(pizzaIngredientFactory);
-            pizza.setName("New York Style Veggie Pizza");
+            pizza.setName("New York Style Cheese Pizza");
         }
 
         return pizza;

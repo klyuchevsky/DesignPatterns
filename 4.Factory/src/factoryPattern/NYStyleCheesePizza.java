@@ -2,7 +2,7 @@ package factoryPattern;
 
 public class NYStyleCheesePizza extends Pizza {
     public NYStyleCheesePizza() {
-        name = "NY Style Sauce and Cheeze factoryPattern.Pizza";
+        name = "NY Style Sauce and Cheeze Pizza";
         dough = "Thin Crust Dough";
         sauce = "Marinara Sauce";
 

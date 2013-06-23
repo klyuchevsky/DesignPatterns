@@ -22,7 +22,7 @@ public abstract class Pizza {
     }
 
     void box() {
-        System.out.println("Place pizza in official factoryPattern.PizzaStore box");
+        System.out.println("Place pizza in official PizzaStore box");
     }
 
     void setName(String name) {
