@@ -1,5 +1,7 @@
 import Beverage.*;
-import Condiment.*;
+import Condiment.Mocha;
+import Condiment.Soy;
+import Condiment.Whip;
 
 public class StarbuzzCoffee {
     public static void main(String[] args) {
