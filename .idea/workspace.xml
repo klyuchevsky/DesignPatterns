@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/6.Command.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.Adapter/7.Adapter.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/8.Facade.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="Add command pattern.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/objects/CeilingFan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/CeilingFanHighCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/CeilingFanLowCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/CeilingFanMediumCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/CeilingFanOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/CeilingFanOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/objects/GarageDoor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/GarageDoorDownCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/GarageDoorUpCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/objects/Hottub.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/HottubOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/HottubOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/objects/Light.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/LightOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/LightOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/MacroCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/NoCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/RemoteControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/RemoteLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/objects/Stereo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/StereoOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/StereoOnWithCDCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/objects/TV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/TVOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Command/src/command/TVOnCommand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -32,7 +54,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1372009014523" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379838265817" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -67,6 +89,33 @@
     <file path="/Classic.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1372007218743" ignored="false" />
     <file path="/Singleton.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1372008948496" ignored="false" />
     <file path="/TestSingleton.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1372008986587" ignored="false" />
+    <file path="/Command.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379785863501" ignored="false" />
+    <file path="/Light.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379778296846" ignored="false" />
+    <file path="/LightOnCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379785907657" ignored="false" />
+    <file path="/RemoteControl.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379834961505" ignored="false" />
+    <file path="/NoCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379785982639" ignored="false" />
+    <file path="/LightOffCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379785949646" ignored="false" />
+    <file path="/StereoOnWithCDCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379786028589" ignored="false" />
+    <file path="/Stereo.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379778696309" ignored="false" />
+    <file path="/RemoteLoader.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379837764148" ignored="false" />
+    <file path="/StereoOffCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379786052118" ignored="false" />
+    <file path="/a.dummy" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379777954049" ignored="false" />
+    <file path="/GarageDoor.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379779141024" ignored="false" />
+    <file path="/CeilingFan.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379788037958" ignored="false" />
+    <file path="/GarageDoorUpCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379786196679" ignored="false" />
+    <file path="/GarageDoorDownCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379786174385" ignored="false" />
+    <file path="/CeilingFanOnCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379788441745" ignored="false" />
+    <file path="/CeilingFanOffCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379788760054" ignored="false" />
+    <file path="/CeilingFanHighCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379788387472" ignored="false" />
+    <file path="/CeilingFanMediumCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379788568586" ignored="false" />
+    <file path="/CeilingFanLowCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379788646082" ignored="false" />
+    <file path="/MacroCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379836150363" ignored="false" />
+    <file path="/TV.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379836325683" ignored="false" />
+    <file path="/Hottub.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379836382416" ignored="false" />
+    <file path="/TVOnCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379836807336" ignored="false" />
+    <file path="/TVOffCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379836854573" ignored="false" />
+    <file path="/HottubOn.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379836962307" ignored="false" />
+    <file path="/HottubOffCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379837028319" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,46 +176,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Singleton.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.Singleton/src/classic/Singleton.java">
+      <file leaf-file-name="RemoteControl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.Command/src/RemoteControl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="9" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+            <state line="15" column="39" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSingleton.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5.Singleton/src/TestSingleton.java">
+      <file leaf-file-name="RemoteLoader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.Command/src/RemoteLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="32" selection-start="572" selection-end="572" vertical-scroll-proportion="0.35355285">
-              <folding />
+            <state line="68" column="30" selection-start="3762" selection-end="3762" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Singleton.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.Singleton/src/createOnInit/Singleton.java">
+      <file leaf-file-name="Stereo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6.Command/src/objects/Stereo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="5" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Singleton.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.Singleton/src/synchronizedSingleton/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="25" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Singleton.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.Singleton/src/block/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="5" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
+            <state line="16" column="5" selection-start="308" selection-end="308" vertical-scroll-proportion="0.4714038">
               <folding />
             </state>
           </provider>
@@ -195,22 +228,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/4.Factory/src/abstractFactory/ClamPizza.java" />
-        <option value="$PROJECT_DIR$/4.Factory/src/abstractFactory/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/4.Factory/src/simpleFactory/Pizza.java" />
-        <option value="$PROJECT_DIR$/4.Factory/src/factoryPattern/Pizza.java" />
-        <option value="$PROJECT_DIR$/4.Factory/src/factoryPattern/ChicagoStyleCheesePizza.java" />
-        <option value="$PROJECT_DIR$/4.Factory/src/factoryPattern/NYStyleCheesePizza.java" />
-        <option value="$PROJECT_DIR$/4.Factory/src/abstractFactory/PizzaTestDrive.java" />
-        <option value="$PROJECT_DIR$/4.Factory/src/abstractFactory/Pizza.java" />
-        <option value="$PROJECT_DIR$/4.Factory/src/abstractFactory/NYPizzaStore.java" />
-        <option value="$PROJECT_DIR$/5.Singleton/src/Classic.java" />
-        <option value="$PROJECT_DIR$/5.Singleton/src/classic/Classic.java" />
-        <option value="$PROJECT_DIR$/5.Singleton/src/classic/Singleton.java" />
-        <option value="$PROJECT_DIR$/5.Singleton/src/synchronizedSingleton/Singleton.java" />
-        <option value="$PROJECT_DIR$/5.Singleton/src/createOnInit/Singleton.java" />
-        <option value="$PROJECT_DIR$/5.Singleton/src/block/Singleton.java" />
-        <option value="$PROJECT_DIR$/5.Singleton/src/TestSingleton.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/command/CeilingFanOnCommand.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/command/CeilingFanMediumCommand.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/command/CeilingFanLowCommand.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/command/CeilingFanOffCommand.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/objects/Light.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/RemoteControl.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/command/MacroCommand.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/command/TVOnCommand.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/command/TVOffCommand.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/command/HottubOn.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/command/HottubOnCommand.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/command/HottubOffCommand.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/objects/TV.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/objects/Hottub.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/RemoteLoader.java" />
+        <option value="$PROJECT_DIR$/6.Command/src/objects/Stereo.java" />
       </list>
     </option>
   </component>
@@ -246,8 +279,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -266,8 +297,114 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8.Facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7.Adapter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="6.Command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="6.Command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="6.Command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="6.Command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,9 +421,9 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -296,23 +433,7 @@
       <recent name="with.java.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestSingleton">
-    <configuration default="false" name="WeatherStation" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="with.java.util.WeatherStation" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="2.Observer" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.RemoteLoader">
     <configuration default="false" name="SwingObserver" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="jbutton.SwingObserver" />
       <option name="VM_PARAMETERS" />
@@ -377,6 +498,22 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="RemoteLoader" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="RemoteLoader" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="6.Command" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -389,6 +526,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -416,19 +566,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -466,17 +603,17 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.WeatherStation" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SwingObserver" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StarbuzzCoffee" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestSingleton" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SwingObserver" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StarbuzzCoffee" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestSingleton" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RemoteLoader" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestSingleton" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RemoteLoader" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SwingObserver" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestSingleton" />
         <item index="3" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
         <item index="4" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
       </list>
@@ -530,7 +667,11 @@
       <created>1372009028757</created>
       <updated>1372009028757</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add singleton pattern.">
+      <created>1372009169810</created>
+      <updated>1372009169810</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -564,14 +705,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -621,7 +762,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add singleton pattern." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add command pattern." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -638,6 +779,7 @@
     <MESSAGE value="Add 2 patterns: Strategy and Observer." />
     <MESSAGE value="Add factory patterns." />
     <MESSAGE value="Add singleton pattern." />
+    <MESSAGE value="Add command pattern." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -647,114 +789,116 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/factoryPattern/PizzaStore.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/command/CeilingFanLowCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+        <state line="25" column="25" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/factoryPattern/NYStyleCheesePizza.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/command/CeilingFanOffCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="42" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/factoryPattern/ChicagoPizzaStore.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/command/CeilingFanHighCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
+        <state line="20" column="44" selection-start="496" selection-end="496" vertical-scroll-proportion="0.5580589">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/factoryPattern/Pizza.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/command/LightOnCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="27" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0">
+        <state line="5" column="0" selection-start="90" selection-end="287" vertical-scroll-proportion="0.14731368">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/abstractFactory/NYPizzaStore.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/command/TVOffCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="43" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+        <state line="17" column="13" selection-start="256" selection-end="256" vertical-scroll-proportion="0.50086653">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/abstractFactory/Pizza.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/command/TVOnCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="52" selection-start="513" selection-end="513" vertical-scroll-proportion="0.610052">
+        <state line="5" column="0" selection-start="83" selection-end="254" vertical-scroll-proportion="0.14731368">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/factoryPattern/NYPizzaStore.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/command/HottubOffCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.058925476">
+        <state line="19" column="20" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/factoryPattern/PizzaTestDrive.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/RemoteControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="41" selection-start="190" selection-end="190" vertical-scroll-proportion="0.14731368">
+        <state line="15" column="39" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/abstractFactory/CheesePizza.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/objects/Hottub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="39" selection-end="39" vertical-scroll-proportion="0.058925476">
+        <state line="7" column="29" selection-start="145" selection-end="145" vertical-scroll-proportion="0.20623916">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/abstractFactory/NYPizzaIngredientFactory.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/objects/TV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.11785095">
+        <state line="7" column="34" selection-start="142" selection-end="142" vertical-scroll-proportion="0.20623916">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Factory/src/abstractFactory/PizzaStore.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/command/HottubOnCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="48" selection-end="48" vertical-scroll-proportion="0.058925476">
+        <state line="5" column="0" selection-start="92" selection-end="298" vertical-scroll-proportion="0.14731368">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.Singleton/src/classic/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/command/MacroCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+        <state line="19" column="5" selection-start="404" selection-end="404" vertical-scroll-proportion="0.55979204">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.Singleton/src/createOnInit/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/command/StereoOnWithCDCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
+        <state line="4" column="13" selection-start="55" selection-end="55" vertical-scroll-proportion="0.11785095">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.Singleton/src/synchronizedSingleton/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/objects/Light.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="25" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
+        <state line="11" column="38" selection-start="229" selection-end="229" vertical-scroll-proportion="0.32409012">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.Singleton/src/block/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/RemoteLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="5" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="68" column="30" selection-start="3762" selection-end="3762" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.Singleton/src/TestSingleton.java">
+    <entry file="file://$PROJECT_DIR$/6.Command/src/objects/Stereo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="32" selection-start="572" selection-end="572" vertical-scroll-proportion="0.35355285">
+        <state line="16" column="5" selection-start="308" selection-end="308" vertical-scroll-proportion="0.4714038">
           <folding />
         </state>
       </provider>
