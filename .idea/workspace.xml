@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/CdPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/HomeTheatreFacade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/HomeTheatreTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/PopcornPopper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/Projector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/Screen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/TheatreLights.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/Tuner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/9.Template method.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/src/BeverageTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/src/CaffeinBeverage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/src/Coffee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/src/MyFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/src/Tea.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -38,7 +35,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379843943162" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379867289917" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -114,6 +111,11 @@
     <file path="/Projector.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379846699306" ignored="false" />
     <file path="/HomeTheatreFacade.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379848324737" ignored="false" />
     <file path="/HomeTheatreTestDrive.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379848247418" ignored="false" />
+    <file path="/CaffeinBeverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379868837325" ignored="false" />
+    <file path="/Tea.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379868806847" ignored="false" />
+    <file path="/Coffee.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379868939506" ignored="false" />
+    <file path="/BeverageTestDrive.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379868726107" ignored="false" />
+    <file path="/MyFrame.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379869337757" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,91 +176,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PopcornPopper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/PopcornPopper.java">
+      <file leaf-file-name="CaffeinBeverage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9.Template method/src/CaffeinBeverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="51" selection-end="287" vertical-scroll-proportion="0.0">
+            <state line="5" column="20" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TheatreLights.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/TheatreLights.java">
+      <file leaf-file-name="Tea.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9.Template method/src/Tea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="57" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="13" column="4" selection-start="303" selection-end="312" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Screen.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Screen.java">
+      <file leaf-file-name="Coffee.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9.Template method/src/Coffee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="1" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="15" column="48" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Amplifier.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java">
+      <file leaf-file-name="MyFrame.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9.Template method/src/MyFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="62" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="6" column="50" selection-start="185" selection-end="185" vertical-scroll-proportion="0.17677642">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Projector.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Projector.java">
+      <file leaf-file-name="BeverageTestDrive.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9.Template method/src/BeverageTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeTheatreFacade.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8.Facade/src/HomeTheatreFacade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="24" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.7348353">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeTheatreTestDrive.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.Facade/src/HomeTheatreTestDrive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="37" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DvdPlayer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="60" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tuner.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Tuner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="5" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CdPlayer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/CdPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="455" selection-end="530" vertical-scroll-proportion="0.0">
+            <state line="12" column="68" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -287,11 +250,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/7.Adapter/src/duck/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/7.Adapter/src/turkey/Turkey.java" />
-        <option value="$PROJECT_DIR$/7.Adapter/src/turkey/WildTurkey.java" />
-        <option value="$PROJECT_DIR$/7.Adapter/src/TurkeyAdapter.java" />
-        <option value="$PROJECT_DIR$/7.Adapter/src/DuckTestDrive.java" />
         <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre.java" />
         <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/PopcornPopper.java" />
         <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/Screen.java" />
@@ -303,6 +261,11 @@
         <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java" />
         <option value="$PROJECT_DIR$/8.Facade/src/HomeTheatreTestDrive.java" />
         <option value="$PROJECT_DIR$/8.Facade/src/HomeTheatreFacade.java" />
+        <option value="$PROJECT_DIR$/9.Template method/src/BeverageTestDrive.java" />
+        <option value="$PROJECT_DIR$/9.Template method/src/Tea.java" />
+        <option value="$PROJECT_DIR$/9.Template method/src/CaffeinBeverage.java" />
+        <option value="$PROJECT_DIR$/9.Template method/src/Coffee.java" />
+        <option value="$PROJECT_DIR$/9.Template method/src/MyFrame.java" />
       </list>
     </option>
   </component>
@@ -311,6 +274,25 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MagicConstant</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -357,60 +339,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="8.Facade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="8.Facade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="8.Facade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homeTheatre" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -430,9 +358,9 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -442,39 +370,7 @@
       <recent name="with.java.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeTheatreTestDrive">
-    <configuration default="false" name="SwingObserver" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="jbutton.SwingObserver" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="2.Observer" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestSingleton" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="TestSingleton" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="5.Singleton" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MyFrame">
     <configuration default="false" name="RemoteLoader" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="RemoteLoader" />
       <option name="VM_PARAMETERS" />
@@ -523,6 +419,38 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="BeverageTestDrive" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BeverageTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="9.Template method" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyFrame" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MyFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="9.Template method" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -535,6 +463,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -562,19 +503,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -612,19 +540,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SwingObserver" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestSingleton" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RemoteLoader" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
-      <item index="4" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RemoteLoader" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MyFrame" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RemoteLoader" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SwingObserver" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestSingleton" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MyFrame" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RemoteLoader" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -633,6 +561,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -692,7 +625,11 @@
       <created>1379843945481</created>
       <updated>1379843945481</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add facade pattern.">
+      <created>1379848350603</created>
+      <updated>1379848350603</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -732,8 +669,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -783,7 +720,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add adapter pattern." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add facade pattern." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -802,6 +739,7 @@
     <MESSAGE value="Add singleton pattern." />
     <MESSAGE value="Add command pattern." />
     <MESSAGE value="Add adapter pattern." />
+    <MESSAGE value="Add facade pattern." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -811,104 +749,63 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7.Adapter/src/duck/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.Adapter/src/duck/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="40" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.Adapter/src/TurkeyAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.Adapter/src/DuckTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="32" selection-start="558" selection-end="558" vertical-scroll-proportion="0.5303293">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.Adapter/src/turkey/WildTurkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="58" selection-start="223" selection-end="223" vertical-scroll-proportion="0.2357019">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7.Adapter/src/turkey/Turkey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="92" selection-end="92" vertical-scroll-proportion="0.14731368">
-          <folding />
-        </state>
+        <state line="5" column="22" selection-start="92" selection-end="92" vertical-scroll-proportion="0.14731368" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Screen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="1" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+        <state line="10" column="1" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/PopcornPopper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="51" selection-end="287" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="51" selection-end="290" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Tuner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="5" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+        <state line="23" column="5" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/CdPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="455" selection-end="530" vertical-scroll-proportion="0.0">
+        <state line="25" column="0" selection-start="460" selection-end="536" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Projector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
+        <state line="21" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/TheatreLights.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="57" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+        <state line="14" column="1" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="62" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0">
+        <state line="37" column="62" selection-start="875" selection-end="875" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="60" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+        <state line="20" column="60" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -922,8 +819,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/HomeTheatreFacade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="24" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.7348353">
+        <state line="51" column="24" selection-start="1602" selection-end="1602" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.Template method/src/BeverageTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="68" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.Template method/src/CaffeinBeverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="20" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.Template method/src/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="303" selection-end="312" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.Template method/src/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="48" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.Template method/src/MyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="50" selection-start="185" selection-end="185" vertical-scroll-proportion="0.17677642">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
