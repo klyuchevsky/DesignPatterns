@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/CdPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/HomeTheatreFacade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/HomeTheatreTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/PopcornPopper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/Projector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/Screen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/TheatreLights.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Facade/src/homeTheatre/Tuner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -28,7 +38,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379843930346" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379843943162" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -94,6 +104,16 @@
     <file path="/WildTurkey.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379843215626" ignored="false" />
     <file path="/DuckTestDrive.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379843818646" ignored="false" />
     <file path="/TurkeyAdapter.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379843592925" ignored="false" />
+    <file path="/PopcornPopper.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379845283741" ignored="false" />
+    <file path="/TheatreLights.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379847378269" ignored="false" />
+    <file path="/Screen.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379845560864" ignored="false" />
+    <file path="/Amplifier.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379847524365" ignored="false" />
+    <file path="/Tuner.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379846024202" ignored="false" />
+    <file path="/CdPlayer.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379846330741" ignored="false" />
+    <file path="/DvdPlayer.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379847653511" ignored="false" />
+    <file path="/Projector.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379846699306" ignored="false" />
+    <file path="/HomeTheatreFacade.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379848324737" ignored="false" />
+    <file path="/HomeTheatreTestDrive.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379848247418" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,60 +174,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Duck.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.Adapter/src/duck/Duck.java">
+      <file leaf-file-name="PopcornPopper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/PopcornPopper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="22" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="51" selection-end="287" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MallardDuck.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.Adapter/src/duck/MallardDuck.java">
+      <file leaf-file-name="TheatreLights.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/TheatreLights.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="40" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+            <state line="14" column="57" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Turkey.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.Adapter/src/turkey/Turkey.java">
+      <file leaf-file-name="Screen.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Screen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="22" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+            <state line="10" column="1" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WildTurkey.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.Adapter/src/turkey/WildTurkey.java">
+      <file leaf-file-name="Amplifier.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="58" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+            <state line="37" column="62" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DuckTestDrive.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7.Adapter/src/DuckTestDrive.java">
+      <file leaf-file-name="Projector.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Projector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="32" selection-start="558" selection-end="558" vertical-scroll-proportion="0.5303293">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="21" column="0" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TurkeyAdapter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.Adapter/src/TurkeyAdapter.java">
+      <file leaf-file-name="HomeTheatreFacade.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8.Facade/src/HomeTheatreFacade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="1" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="51" column="24" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.7348353">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeTheatreTestDrive.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.Facade/src/HomeTheatreTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="37" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DvdPlayer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="60" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tuner.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Tuner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="5" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CdPlayer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/CdPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="0" selection-start="455" selection-end="530" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -235,22 +287,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/6.Command/src/command/TVOffCommand.java" />
-        <option value="$PROJECT_DIR$/6.Command/src/command/HottubOn.java" />
-        <option value="$PROJECT_DIR$/6.Command/src/command/HottubOnCommand.java" />
-        <option value="$PROJECT_DIR$/6.Command/src/command/HottubOffCommand.java" />
-        <option value="$PROJECT_DIR$/6.Command/src/objects/TV.java" />
-        <option value="$PROJECT_DIR$/6.Command/src/objects/Hottub.java" />
-        <option value="$PROJECT_DIR$/6.Command/src/RemoteLoader.java" />
-        <option value="$PROJECT_DIR$/6.Command/src/objects/Stereo.java" />
-        <option value="$PROJECT_DIR$/7.Adapter/src/Duck.java" />
-        <option value="$PROJECT_DIR$/7.Adapter/src/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/7.Adapter/src/Duck/MallardDuck.java" />
         <option value="$PROJECT_DIR$/7.Adapter/src/duck/MallardDuck.java" />
         <option value="$PROJECT_DIR$/7.Adapter/src/turkey/Turkey.java" />
         <option value="$PROJECT_DIR$/7.Adapter/src/turkey/WildTurkey.java" />
         <option value="$PROJECT_DIR$/7.Adapter/src/TurkeyAdapter.java" />
         <option value="$PROJECT_DIR$/7.Adapter/src/DuckTestDrive.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/PopcornPopper.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/Screen.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/Tuner.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/CdPlayer.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/Projector.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/TheatreLights.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/HomeTheatreTestDrive.java" />
+        <option value="$PROJECT_DIR$/8.Facade/src/HomeTheatreFacade.java" />
       </list>
     </option>
   </component>
@@ -319,6 +371,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8.Facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8.Facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homeTheatre" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -350,7 +442,7 @@
       <recent name="with.java.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuckTestDrive">
+  <component name="RunManager" selected="Application.HomeTheatreTestDrive">
     <configuration default="false" name="SwingObserver" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="jbutton.SwingObserver" />
       <option name="VM_PARAMETERS" />
@@ -362,22 +454,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="2.Observer" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="abstractFactory.PizzaTestDrive" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="4.Factory" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -426,6 +502,22 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="7.Adapter" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HomeTheatreTestDrive" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HomeTheatreTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="8.Facade" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -521,18 +613,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.SwingObserver" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestSingleton" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RemoteLoader" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestSingleton" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RemoteLoader" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RemoteLoader" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SwingObserver" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestSingleton" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
+        <item index="0" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RemoteLoader" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SwingObserver" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestSingleton" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -596,7 +688,11 @@
       <created>1379843939691</created>
       <updated>1379843939691</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add adapter pattern.">
+      <created>1379843945481</created>
+      <updated>1379843945481</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -636,8 +732,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -715,66 +811,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6.Command/src/command/HottubOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="20" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.Command/src/objects/Hottub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="29" selection-start="145" selection-end="145" vertical-scroll-proportion="0.20623916" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.Command/src/objects/TV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="34" selection-start="142" selection-end="142" vertical-scroll-proportion="0.20623916" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.Command/src/command/HottubOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="92" selection-end="298" vertical-scroll-proportion="0.14731368">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.Command/src/command/MacroCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="404" selection-end="404" vertical-scroll-proportion="0.55979204" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.Command/src/command/StereoOnWithCDCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="55" selection-end="55" vertical-scroll-proportion="0.11785095">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.Command/src/objects/Light.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="229" selection-end="229" vertical-scroll-proportion="0.32409012" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.Command/src/objects/Stereo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="5" selection-start="308" selection-end="308" vertical-scroll-proportion="0.31085715">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.Command/src/RemoteLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="30" selection-start="3762" selection-end="3762" vertical-scroll-proportion="0.76685715">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.Command/src/RemoteControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="39" selection-start="483" selection-end="483" vertical-scroll-proportion="0.20342857">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7.Adapter/src/duck/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="22" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
@@ -789,25 +825,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7.Adapter/src/turkey/Turkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.Adapter/src/turkey/WildTurkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="58" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7.Adapter/src/TurkeyAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="1" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -816,8 +838,92 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="32" selection-start="558" selection-end="558" vertical-scroll-proportion="0.5303293">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Adapter/src/turkey/WildTurkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="58" selection-start="223" selection-end="223" vertical-scroll-proportion="0.2357019">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Adapter/src/turkey/Turkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="92" selection-end="92" vertical-scroll-proportion="0.14731368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/PopcornPopper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="51" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Tuner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="5" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/CdPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="455" selection-end="530" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Projector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/TheatreLights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="57" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="62" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="60" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Facade/src/HomeTheatreTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="37" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Facade/src/HomeTheatreFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="24" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.7348353">
+          <folding />
         </state>
       </provider>
     </entry>
