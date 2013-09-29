@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/9.Template method.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/src/BeverageTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/src/CaffeinBeverage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/src/Coffee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/src/MyFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.Template method/src/Tea.java" />
+    <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="Add state pattern.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.Iterator and Composite/10.Iterator and Composite.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/11.State.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/GumballMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/HasQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/NoQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/SoldOutState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/SoldState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/State.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -35,7 +37,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379867289917" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380478142249" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -116,6 +118,13 @@
     <file path="/Coffee.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379868939506" ignored="false" />
     <file path="/BeverageTestDrive.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379868726107" ignored="false" />
     <file path="/MyFrame.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379869337757" ignored="false" />
+    <file path="/State.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380476097051" ignored="false" />
+    <file path="/NoQuarter.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380477996509" ignored="false" />
+    <file path="/NoQuarterState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380477997210" ignored="false" />
+    <file path="/GumballMachine.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380477821044" ignored="false" />
+    <file path="/SoldOutState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380477350418" ignored="false" />
+    <file path="/HasQuarterState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380477361738" ignored="false" />
+    <file path="/SoldState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380478036454" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,52 +185,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CaffeinBeverage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9.Template method/src/CaffeinBeverage.java">
+      <file leaf-file-name="NoQuarterState.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11.State/src/NoQuarterState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="47" selection-end="652" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tea.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9.Template method/src/Tea.java">
+      <file leaf-file-name="GumballMachine.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11.State/src/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="4" selection-start="303" selection-end="312" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="13" column="38" selection-start="418" selection-end="418" vertical-scroll-proportion="0.27050182">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Coffee.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9.Template method/src/Coffee.java">
+      <file leaf-file-name="SoldOutState.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11.State/src/SoldOutState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="48" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="24" column="0" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFrame.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/9.Template method/src/MyFrame.java">
+      <file leaf-file-name="HasQuarterState.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11.State/src/HasQuarterState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="50" selection-start="185" selection-end="185" vertical-scroll-proportion="0.17677642">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="3" column="26" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeverageTestDrive.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9.Template method/src/BeverageTestDrive.java">
+      <file leaf-file-name="SoldState.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11.State/src/SoldState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="68" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
+            <state line="3" column="20" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -250,13 +253,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre.java" />
-        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/PopcornPopper.java" />
-        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/Screen.java" />
-        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/Tuner.java" />
-        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/CdPlayer.java" />
-        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/Projector.java" />
-        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/TheatreLights.java" />
         <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java" />
         <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java" />
         <option value="$PROJECT_DIR$/8.Facade/src/HomeTheatreTestDrive.java" />
@@ -266,14 +262,21 @@
         <option value="$PROJECT_DIR$/9.Template method/src/CaffeinBeverage.java" />
         <option value="$PROJECT_DIR$/9.Template method/src/Coffee.java" />
         <option value="$PROJECT_DIR$/9.Template method/src/MyFrame.java" />
+        <option value="$PROJECT_DIR$/11.State/src/State.java" />
+        <option value="$PROJECT_DIR$/11.State/src/NoQuarter.java" />
+        <option value="$PROJECT_DIR$/11.State/src/NoQuarterState.java" />
+        <option value="$PROJECT_DIR$/11.State/src/SoldOutState.java" />
+        <option value="$PROJECT_DIR$/11.State/src/HasQuarterState.java" />
+        <option value="$PROJECT_DIR$/11.State/src/SoldState.java" />
+        <option value="$PROJECT_DIR$/11.State/src/GumballMachine.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -320,7 +323,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -335,13 +338,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="11.State" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="11.State" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,9 +393,9 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -465,19 +500,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -503,6 +525,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -653,7 +688,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -664,13 +699,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781065" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.67141163" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -720,7 +755,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add facade pattern." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add state pattern." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -740,6 +775,7 @@
     <MESSAGE value="Add command pattern." />
     <MESSAGE value="Add adapter pattern." />
     <MESSAGE value="Add facade pattern." />
+    <MESSAGE value="Add state pattern." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -749,79 +785,29 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7.Adapter/src/turkey/Turkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="92" selection-end="92" vertical-scroll-proportion="0.14731368" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Screen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="1" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/PopcornPopper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="51" selection-end="290" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Tuner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="5" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/CdPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="460" selection-end="536" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Projector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/TheatreLights.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="14" column="1" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="62" selection-start="875" selection-end="875" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="37" column="62" selection-start="875" selection-end="875" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="60" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="20" column="60" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/HomeTheatreTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="37" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="37" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/HomeTheatreFacade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="24" selection-start="1602" selection-end="1602" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="51" column="24" selection-start="1602" selection-end="1602" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9.Template method/src/BeverageTestDrive.java">
@@ -833,35 +819,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9.Template method/src/CaffeinBeverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
+        <state line="5" column="20" selection-start="151" selection-end="151" vertical-scroll-proportion="0.10403917">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9.Template method/src/Tea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="303" selection-end="312" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="13" column="4" selection-start="303" selection-end="312" vertical-scroll-proportion="0.27050182">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9.Template method/src/Coffee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="48" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+        <state line="15" column="48" selection-start="428" selection-end="428" vertical-scroll-proportion="0.27050182">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.Template method/src/MyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="50" selection-start="187" selection-end="187" vertical-scroll-proportion="0.124847">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9.Template method/src/MyFrame.java">
+    <entry file="file://$PROJECT_DIR$/11.State/src/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="50" selection-start="185" selection-end="185" vertical-scroll-proportion="0.17677642">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="4" column="20" selection-start="111" selection-end="111" vertical-scroll-proportion="0.08323134">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.State/src/NoQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="47" selection-end="652" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.State/src/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.State/src/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.State/src/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="20" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.State/src/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="38" selection-start="418" selection-end="418" vertical-scroll-proportion="0.27050182">
+          <folding />
         </state>
       </provider>
     </entry>

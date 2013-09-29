@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.Strategy/1.Strategy.iml" filepath="$PROJECT_DIR$/1.Strategy/1.Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.Iterator and Composite/10.Iterator and Composite.iml" filepath="$PROJECT_DIR$/10.Iterator and Composite/10.Iterator and Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.State/11.State.iml" filepath="$PROJECT_DIR$/11.State/11.State.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.Observer/2.Observer.iml" filepath="$PROJECT_DIR$/2.Observer/2.Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.Decorator/3.Decorator.iml" filepath="$PROJECT_DIR$/3.Decorator/3.Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.Factory/4.Factory.iml" filepath="$PROJECT_DIR$/4.Factory/4.Factory.iml" />
