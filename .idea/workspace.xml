@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/GumballMachineTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/WinnerState.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11.State/src/GumballMachine.java" afterPath="$PROJECT_DIR$/11.State/src/GumballMachine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11.State/src/HasQuarterState.java" afterPath="$PROJECT_DIR$/11.State/src/HasQuarterState.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11.State/src/SoldOutState.java" afterPath="$PROJECT_DIR$/11.State/src/SoldOutState.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11.State/src/SoldState.java" afterPath="$PROJECT_DIR$/11.State/src/SoldState.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -34,7 +28,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380555416156" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380559240097" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -205,7 +199,7 @@
       <file leaf-file-name="SoldState.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11.State/src/SoldState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="39" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
+            <state line="29" column="0" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -649,7 +643,11 @@
       <created>1380478227342</created>
       <updated>1380478227342</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add state pattern.">
+      <created>1380559256607</created>
+      <updated>1380559256607</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -826,7 +824,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11.State/src/SoldState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="39" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
+        <state line="29" column="0" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
