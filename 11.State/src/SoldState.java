@@ -6,19 +6,24 @@ public class SoldState implements State {
     }
 
     public void insertQuarter() {
-        System.out.println("You inserted a quarter");
-        gumballMachine.setState(gumballMachine.getHasQuarterState());
+        System.out.println("Please wait, we're already giving you a gumball");
     }
 
     public void ejectQuarter() {
-        System.out.println("You haven't inserted a quarter");
+        System.out.println("Sorry, you already turned crank");
     }
 
     public void turnCrank() {
-        System.out.println("You turned, but there's no quarter");
+        System.out.println("Turning twice doesn't get you another gumball!");
     }
 
     public void dispense() {
-        System.out.println("You need to pay first");
+        gumballMachine.releaseBall();
+        if (gumballMachine.getCount() > 0) {
+            gumballMachine.setState(gumballMachine.getNoQuarterState());
+        } else {
+            System.out.println("Oops, out of gumballs!");
+            gumballMachine.setState(gumballMachine.getSoldOutState());
+        }
     }
 }

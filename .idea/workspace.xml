@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="Add state pattern.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.Iterator and Composite/10.Iterator and Composite.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/11.State.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/GumballMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/HasQuarterState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/NoQuarterState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/SoldOutState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/SoldState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/State.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/GumballMachineTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.State/src/WinnerState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11.State/src/GumballMachine.java" afterPath="$PROJECT_DIR$/11.State/src/GumballMachine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11.State/src/HasQuarterState.java" afterPath="$PROJECT_DIR$/11.State/src/HasQuarterState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11.State/src/SoldOutState.java" afterPath="$PROJECT_DIR$/11.State/src/SoldOutState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11.State/src/SoldState.java" afterPath="$PROJECT_DIR$/11.State/src/SoldState.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -37,7 +34,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380478142249" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380555416156" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -82,7 +79,7 @@
     <file path="/Stereo.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379778696309" ignored="false" />
     <file path="/RemoteLoader.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379837764148" ignored="false" />
     <file path="/StereoOffCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379786052118" ignored="false" />
-    <file path="/a.dummy" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379777954049" ignored="false" />
+    <file path="/a.dummy" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380558112899" ignored="false" />
     <file path="/GarageDoor.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379779141024" ignored="false" />
     <file path="/CeilingFan.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379788037958" ignored="false" />
     <file path="/GarageDoorUpCommand.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1379786196679" ignored="false" />
@@ -121,10 +118,12 @@
     <file path="/State.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380476097051" ignored="false" />
     <file path="/NoQuarter.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380477996509" ignored="false" />
     <file path="/NoQuarterState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380477997210" ignored="false" />
-    <file path="/GumballMachine.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380477821044" ignored="false" />
-    <file path="/SoldOutState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380477350418" ignored="false" />
-    <file path="/HasQuarterState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380477361738" ignored="false" />
-    <file path="/SoldState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380478036454" ignored="false" />
+    <file path="/GumballMachine.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380558891951" ignored="false" />
+    <file path="/SoldOutState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380556403376" ignored="false" />
+    <file path="/HasQuarterState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380558809821" ignored="false" />
+    <file path="/SoldState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380556109183" ignored="false" />
+    <file path="/WinnerState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380557059125" ignored="false" />
+    <file path="/GumballMachineTestDrive.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380557549729" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,37 +184,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NoQuarterState.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11.State/src/NoQuarterState.java">
+      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11.State/src/GumballMachineTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="47" selection-end="652" vertical-scroll-proportion="0.0">
+            <state line="10" column="23" selection-start="315" selection-end="315" vertical-scroll-proportion="0.31423292">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GumballMachine.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GumballMachine.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11.State/src/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="38" selection-start="418" selection-end="418" vertical-scroll-proportion="0.27050182">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SoldOutState.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11.State/src/SoldOutState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HasQuarterState.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11.State/src/HasQuarterState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+            <state line="14" column="44" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -224,7 +205,7 @@
       <file leaf-file-name="SoldState.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11.State/src/SoldState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="20" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+            <state line="29" column="39" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -253,8 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java" />
-        <option value="$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java" />
         <option value="$PROJECT_DIR$/8.Facade/src/HomeTheatreTestDrive.java" />
         <option value="$PROJECT_DIR$/8.Facade/src/HomeTheatreFacade.java" />
         <option value="$PROJECT_DIR$/9.Template method/src/BeverageTestDrive.java" />
@@ -265,10 +244,12 @@
         <option value="$PROJECT_DIR$/11.State/src/State.java" />
         <option value="$PROJECT_DIR$/11.State/src/NoQuarter.java" />
         <option value="$PROJECT_DIR$/11.State/src/NoQuarterState.java" />
-        <option value="$PROJECT_DIR$/11.State/src/SoldOutState.java" />
-        <option value="$PROJECT_DIR$/11.State/src/HasQuarterState.java" />
         <option value="$PROJECT_DIR$/11.State/src/SoldState.java" />
+        <option value="$PROJECT_DIR$/11.State/src/SoldOutState.java" />
+        <option value="$PROJECT_DIR$/11.State/src/WinnerState.java" />
         <option value="$PROJECT_DIR$/11.State/src/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/11.State/src/GumballMachineTestDrive.java" />
+        <option value="$PROJECT_DIR$/11.State/src/HasQuarterState.java" />
       </list>
     </option>
   </component>
@@ -393,9 +374,9 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -405,23 +386,7 @@
       <recent name="with.java.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyFrame">
-    <configuration default="false" name="RemoteLoader" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="RemoteLoader" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="6.Command" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.GumballMachineTestDrive">
     <configuration default="false" name="DuckTestDrive" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="DuckTestDrive" />
       <option name="VM_PARAMETERS" />
@@ -486,6 +451,22 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="GumballMachineTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="11.State" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -498,6 +479,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -525,19 +519,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -575,19 +556,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RemoteLoader" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MyFrame" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyFrame" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyFrame" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RemoteLoader" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MyFrame" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -664,7 +645,11 @@
       <created>1379848350603</created>
       <updated>1379848350603</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add state pattern.">
+      <created>1380478227342</created>
+      <updated>1380478227342</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -689,11 +674,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32740214" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -704,11 +690,10 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.67141163" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.6725979" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32740214" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -785,16 +770,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/TheatreLights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/Amplifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="62" selection-start="875" selection-end="875" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8.Facade/src/homeTheatre/DvdPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="60" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" />
@@ -812,79 +787,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9.Template method/src/BeverageTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="68" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="12" column="68" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9.Template method/src/CaffeinBeverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="151" selection-end="151" vertical-scroll-proportion="0.10403917">
-          <folding />
-        </state>
+        <state line="5" column="20" selection-start="151" selection-end="151" vertical-scroll-proportion="0.10403917" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9.Template method/src/Tea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="303" selection-end="312" vertical-scroll-proportion="0.27050182">
-          <folding />
-        </state>
+        <state line="13" column="4" selection-start="303" selection-end="312" vertical-scroll-proportion="0.27050182" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9.Template method/src/Coffee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="48" selection-start="428" selection-end="428" vertical-scroll-proportion="0.27050182">
-          <folding />
-        </state>
+        <state line="15" column="48" selection-start="428" selection-end="428" vertical-scroll-proportion="0.27050182" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9.Template method/src/MyFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="50" selection-start="187" selection-end="187" vertical-scroll-proportion="0.124847">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11.State/src/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="20" selection-start="111" selection-end="111" vertical-scroll-proportion="0.08323134">
-          <folding />
-        </state>
+        <state line="6" column="50" selection-start="187" selection-end="187" vertical-scroll-proportion="0.124847" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/11.State/src/NoQuarterState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="47" selection-end="652" vertical-scroll-proportion="0.0">
+        <state line="4" column="17" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11.State/src/SoldOutState.java">
+    <entry file="file://$PROJECT_DIR$/11.State/src/WinnerState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11.State/src/HasQuarterState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+        <state line="27" column="9" selection-start="914" selection-end="914" vertical-scroll-proportion="0.88269234">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/11.State/src/SoldState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="20" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+        <state line="29" column="39" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.State/src/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="696" selection-end="696" vertical-scroll-proportion="0.85">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.State/src/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="82" selection-start="92" selection-end="92" vertical-scroll-proportion="0.15711646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.State/src/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="46" selection-start="672" selection-end="672" vertical-scroll-proportion="0.43438077">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/11.State/src/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="38" selection-start="418" selection-end="418" vertical-scroll-proportion="0.27050182">
+        <state line="14" column="44" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.State/src/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="23" selection-start="315" selection-end="315" vertical-scroll-proportion="0.31423292">
           <folding />
         </state>
       </provider>
