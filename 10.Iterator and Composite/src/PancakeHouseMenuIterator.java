@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class PancakeHouseMenuIterator implements Iterator {
+public class PancakeHouseMenuIterator implements java.util.Iterator {
     ArrayList<MenuItem> items;
     int position = 0;
 
@@ -18,5 +18,9 @@ public class PancakeHouseMenuIterator implements Iterator {
         if (position >= items.size() || items.get(position) == null) {
             return false;
         } else return true;
+    }
+
+    public void remove() {
+
     }
 }
