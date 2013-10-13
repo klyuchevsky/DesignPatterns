@@ -19,6 +19,10 @@ public class MenuItem {
         return description;
     }
 
+    public double getPrice() {
+        return price;
+    }
+
     public boolean isVegetarian() {
         return vegetarian;
     }
