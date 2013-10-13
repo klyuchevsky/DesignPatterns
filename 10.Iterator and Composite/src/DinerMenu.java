@@ -1,3 +1,5 @@
+//This menu uses DinnerMenuIterator
+
 import java.util.Iterator;
 
 public class DinerMenu implements Menu {

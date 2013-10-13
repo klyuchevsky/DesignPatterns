@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/CafeMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/Menu.java" />
-      <change type="DELETED" beforePath="C:\Users\Светлана\IdeaProjects\DesignPatterns\10.Iterator and Composite\src\Iterator.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/CafeMenu.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/CafeMenu.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenu.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenuIterator.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenuIterator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/MenuTestDrive.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/MenuTestDrive.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenu.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenuIterator.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenuIterator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/Waitress.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/Waitress.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -37,7 +31,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381677917754" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381682026156" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -128,15 +122,15 @@
     <file path="/WinnerState.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380557059125" ignored="false" />
     <file path="/GumballMachineTestDrive.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380557549729" ignored="false" />
     <file path="/MenuItem.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381676630438" ignored="false" />
-    <file path="/PancakeHouseMenu.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381681526727" ignored="false" />
-    <file path="/DinerMenu.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381681851499" ignored="false" />
+    <file path="/PancakeHouseMenu.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381682779848" ignored="false" />
+    <file path="/DinerMenu.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381682701432" ignored="false" />
     <file path="/Iterator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380727493286" ignored="false" />
     <file path="/DinerIterator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1380727799044" ignored="false" />
     <file path="/Waitress.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381681974255" ignored="false" />
     <file path="/PancakeHouseMenuIterator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381681708997" ignored="false" />
     <file path="/MenuTestDrive.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381681331864" ignored="false" />
     <file path="/DinerMenuIterator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381681683055" ignored="false" />
-    <file path="/CafeMenu.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381681068878" ignored="false" />
+    <file path="/CafeMenu.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381682656935" ignored="false" />
     <file path="/Menu.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1381681441149" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -207,10 +201,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PancakeHouseMenu.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PancakeHouseMenu.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="16" selection-start="973" selection-end="973" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.037037037">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -221,7 +215,7 @@
       <file leaf-file-name="DinerMenu.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -230,7 +224,7 @@
       <file leaf-file-name="CafeMenu.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/CafeMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="50" selection-start="796" selection-end="796" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="35" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -238,10 +232,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Waitress.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Waitress.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/Waitress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="50" selection-start="704" selection-end="704" vertical-scroll-proportion="0.7037037">
+            <state line="15" column="32" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -268,7 +262,7 @@
       <file leaf-file-name="PancakeHouseMenuIterator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenuIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="54" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
+            <state line="4" column="21" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -306,13 +300,13 @@
         <option value="$PROJECT_DIR$/10.Iterator and Composite/src/MenuItem.java" />
         <option value="$PROJECT_DIR$/10.Iterator and Composite/src/MenuTestDrive.java" />
         <option value="$PROJECT_DIR$/10.Iterator and Composite/src/Menu.java" />
-        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/CafeMenu.java" />
-        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenu.java" />
         <option value="$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenuIterator.java" />
         <option value="$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenuIterator.java" />
-        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenu.java" />
         <option value="$PROJECT_DIR$/10.Iterator and Composite/src/Iterator.java" />
         <option value="$PROJECT_DIR$/10.Iterator and Composite/src/Waitress.java" />
+        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/CafeMenu.java" />
+        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenu.java" />
+        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenu.java" />
       </list>
     </option>
   </component>
@@ -752,7 +746,11 @@
       <created>1381677928784</created>
       <updated>1381677928784</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add iterator pattern.">
+      <created>1381682030845</created>
+      <updated>1381682030845</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -783,7 +781,7 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39976275" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39976275" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32740214" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -920,18 +918,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="16" selection-start="973" selection-end="973" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="54" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
+        <state line="4" column="21" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -950,26 +939,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenu.java">
+    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+        <state line="15" column="32" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/CafeMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="50" selection-start="796" selection-end="796" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="35" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/Waitress.java">
+    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="50" selection-start="704" selection-end="704" vertical-scroll-proportion="0.7037037">
+        <state line="1" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.037037037">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

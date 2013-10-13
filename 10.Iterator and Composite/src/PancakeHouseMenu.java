@@ -1,3 +1,5 @@
+//This menu uses PancakeHouseMenuIterator
+
 import java.util.ArrayList;
 import java.util.Iterator;
 

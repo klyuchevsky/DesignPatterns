@@ -1,3 +1,5 @@
+//This menu uses java.util.Iterator
+
 import java.util.Hashtable;
 import java.util.Iterator;
 
