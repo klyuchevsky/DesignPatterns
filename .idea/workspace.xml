@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/CompositeIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/NullIterator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/Menu.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/Menu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuComponent.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuComponent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuItem.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuItem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuTestDrive.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuTestDrive.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/Waitress.java" afterPath="$PROJECT_DIR$/10.Iterator and Composite/src/composite/Waitress.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -35,7 +28,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382631701038" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382636044752" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -211,7 +204,7 @@
       <file leaf-file-name="MenuItem.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="5" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
+            <state line="24" column="5" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -220,7 +213,7 @@
       <file leaf-file-name="CompositeIterator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/CompositeIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="50" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
+            <state line="40" column="50" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -231,7 +224,7 @@
       <file leaf-file-name="NullIterator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/NullIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="5" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
+            <state line="15" column="5" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -246,10 +239,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Menu.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Menu.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="59" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0">
+            <state line="13" column="59" selection-start="385" selection-end="385" vertical-scroll-proportion="-0.16346154">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -266,10 +259,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuTestDrive.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MenuTestDrive.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="39" selection-start="2697" selection-end="2697" vertical-scroll-proportion="1.2406312">
+            <state line="37" column="39" selection-start="2697" selection-end="2697" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -399,60 +392,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="12.Proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesignPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10.Iterator and Composite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesignPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10.Iterator and Composite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesignPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10.Iterator and Composite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="composite" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -781,7 +720,11 @@
       <created>1382631719136</created>
       <updated>1382631719136</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add composite pattern with composite iterator">
+      <created>1382636055266</created>
+      <updated>1382636055266</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -806,7 +749,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -822,8 +765,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.6725979" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32740214" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.6725979" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32740214" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -872,7 +815,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add composite pattern." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add composite pattern with composite iterator" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -895,6 +838,7 @@
     <MESSAGE value="Add state pattern." />
     <MESSAGE value="Add iterator pattern." />
     <MESSAGE value="Add composite pattern." />
+    <MESSAGE value="Add composite pattern with composite iterator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -971,23 +915,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/NullIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="5" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
+        <state line="15" column="5" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/CompositeIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="50" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="59" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0">
+        <state line="40" column="50" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -996,7 +931,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="5" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
+        <state line="24" column="5" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1017,8 +952,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="39" selection-start="2697" selection-end="2697" vertical-scroll-proportion="1.2406312">
+        <state line="37" column="39" selection-start="2697" selection-end="2697" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="59" selection-start="385" selection-end="385" vertical-scroll-proportion="-0.16346154">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
