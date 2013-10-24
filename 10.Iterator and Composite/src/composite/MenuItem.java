@@ -1,5 +1,7 @@
 package composite;
 
+import java.util.Iterator;
+
 public class MenuItem extends MenuComponent {
     String name;
     String description;
@@ -11,6 +13,10 @@ public class MenuItem extends MenuComponent {
         this.description = description;
         this.vegetarian = vegetarian;
         this.price = price;
+    }
+
+    public Iterator createIterator() {
+        return new NullIterator();
     }
 
     public String getName() {
