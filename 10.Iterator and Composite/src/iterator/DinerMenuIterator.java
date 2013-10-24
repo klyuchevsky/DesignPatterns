@@ -1,3 +1,5 @@
+package iterator;
+
 public class DinerMenuIterator implements java.util.Iterator {
     MenuItem[] items;
     int position = 0;

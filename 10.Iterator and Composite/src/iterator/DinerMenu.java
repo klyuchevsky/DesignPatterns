@@ -1,4 +1,4 @@
-//This menu uses DinnerMenuIterator
+package iterator;//This menu uses DinnerMenuIterator
 
 import java.util.Iterator;
 

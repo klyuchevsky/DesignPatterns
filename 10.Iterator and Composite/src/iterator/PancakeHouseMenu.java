@@ -1,4 +1,4 @@
-//This menu uses PancakeHouseMenuIterator
+package iterator;//This menu uses iterator.PancakeHouseMenuIterator
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -8,7 +8,7 @@ public class PancakeHouseMenu implements Menu {
 
     public PancakeHouseMenu() {
         menuItems = new ArrayList();
-        addItem("K&&B's Pancake Breakfast", "Pancakes with scrambled eggs, and toast", true, 2.99);
+        addItem("K&B's Pancake Breakfast", "Pancakes with scrambled eggs, and toast", true, 2.99);
         addItem("Regular Pancake Breakfast", "Pancakes with fried eggs, sausage", false, 2.99);
         addItem("Blueberry Pancakes", "Pancakes made with fresh blueberry", true, 3.49);
         addItem("Waffles", "Waffles with your choice of blueberries or strawberries", true, 3.59);
