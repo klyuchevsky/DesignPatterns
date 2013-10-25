@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/GumballMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/GumballMachineTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/GumballMonitor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/HasQuarterState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/NoQuarterState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/SoldOutState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/SoldState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/State.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/WinnerState.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -38,7 +28,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382724453919" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382727151231" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -211,7 +201,7 @@
       <file leaf-file-name="GumballMachine.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="10" selection-start="1545" selection-end="1545" vertical-scroll-proportion="0.762069">
+            <state line="59" column="10" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.762069">
               <folding />
             </state>
           </provider>
@@ -220,7 +210,7 @@
       <file leaf-file-name="GumballMonitor.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMonitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="5" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
+            <state line="11" column="5" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -256,7 +246,7 @@
       <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMachineTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="24" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0">
+            <state line="13" column="24" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -317,8 +307,8 @@
         <option value="$PROJECT_DIR$/12.Proxy/src/State.java" />
         <option value="$PROJECT_DIR$/12.Proxy/src/GumballMonitor.java" />
         <option value="$PROJECT_DIR$/12.Proxy/src/GumballMachineTestDrive.java" />
-        <option value="$PROJECT_DIR$/12.Proxy/src/GumballMachine.java" />
         <option value="$PROJECT_DIR$/12.Proxy/src/NoQuarterState.java" />
+        <option value="$PROJECT_DIR$/12.Proxy/src/GumballMachine.java" />
       </list>
     </option>
   </component>
@@ -853,7 +843,11 @@
       <created>1382637189498</created>
       <updated>1382637189498</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add proxy">
+      <created>1382727158506</created>
+      <updated>1382727158506</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -944,7 +938,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add composite pattern with composite iterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add proxy" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -968,6 +962,7 @@
     <MESSAGE value="Add iterator pattern." />
     <MESSAGE value="Add composite pattern." />
     <MESSAGE value="Add composite pattern with composite iterator" />
+    <MESSAGE value="Add proxy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1053,7 +1048,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMachineTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="24" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0">
+        <state line="13" column="24" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1081,14 +1076,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMonitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
+        <state line="11" column="5" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="10" selection-start="1545" selection-end="1545" vertical-scroll-proportion="0.762069">
+        <state line="59" column="10" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.762069">
           <folding />
         </state>
       </provider>
