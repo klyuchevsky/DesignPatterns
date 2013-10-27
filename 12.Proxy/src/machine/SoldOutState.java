@@ -1,3 +1,5 @@
+package machine;
+
 public class SoldOutState implements State {
     GumballMachine gumballMachine;
 

@@ -1,3 +1,5 @@
+package machine;
+
 public class GumballMonitor {
     GumballMachine gumballMachine;
 

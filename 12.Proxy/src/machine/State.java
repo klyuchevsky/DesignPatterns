@@ -1,3 +1,5 @@
+package machine;
+
 interface State {
     void insertQuarter();
 

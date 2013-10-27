@@ -1,3 +1,5 @@
+package machine;
+
 public class WinnerState implements State {
     GumballMachine gumballMachine;
 

@@ -1,3 +1,5 @@
+package machine;
+
 public class NoQuarterState implements State {
     GumballMachine gumballMachine;
 

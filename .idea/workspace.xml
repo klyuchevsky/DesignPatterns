@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/MyRemote.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/MyRemoteClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/MyRemoteImpl.java" />
+      <change type="MOVED" beforePath="C:\Users\Женя\IdeaProjects\OOD\12.Proxy\src\GumballMachine.java" afterPath="$PROJECT_DIR$/12.Proxy/src/machine/GumballMachine.java" />
+      <change type="MOVED" beforePath="C:\Users\Женя\IdeaProjects\OOD\12.Proxy\src\GumballMachineTestDrive.java" afterPath="$PROJECT_DIR$/12.Proxy/src/machine/GumballMachineTestDrive.java" />
+      <change type="MOVED" beforePath="C:\Users\Женя\IdeaProjects\OOD\12.Proxy\src\GumballMonitor.java" afterPath="$PROJECT_DIR$/12.Proxy/src/machine/GumballMonitor.java" />
+      <change type="MOVED" beforePath="C:\Users\Женя\IdeaProjects\OOD\12.Proxy\src\HasQuarterState.java" afterPath="$PROJECT_DIR$/12.Proxy/src/machine/HasQuarterState.java" />
+      <change type="MOVED" beforePath="C:\Users\Женя\IdeaProjects\OOD\12.Proxy\src\NoQuarterState.java" afterPath="$PROJECT_DIR$/12.Proxy/src/machine/NoQuarterState.java" />
+      <change type="MOVED" beforePath="C:\Users\Женя\IdeaProjects\OOD\12.Proxy\src\SoldOutState.java" afterPath="$PROJECT_DIR$/12.Proxy/src/machine/SoldOutState.java" />
+      <change type="MOVED" beforePath="C:\Users\Женя\IdeaProjects\OOD\12.Proxy\src\SoldState.java" afterPath="$PROJECT_DIR$/12.Proxy/src/machine/SoldState.java" />
+      <change type="MOVED" beforePath="C:\Users\Женя\IdeaProjects\OOD\12.Proxy\src\State.java" afterPath="$PROJECT_DIR$/12.Proxy/src/machine/State.java" />
+      <change type="MOVED" beforePath="C:\Users\Женя\IdeaProjects\OOD\12.Proxy\src\WinnerState.java" afterPath="$PROJECT_DIR$/12.Proxy/src/machine/WinnerState.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -28,7 +40,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382727151231" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382901266597" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -138,6 +150,10 @@
     <file path="/a.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382726152522" ignored="false" />
     <file path="/a.xml" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382726076309" ignored="false" />
     <file path="/sample.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382726158713" ignored="false" />
+    <file path="/MyRemote.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382766010078" ignored="false" />
+    <file path="/MyRemoteImpl.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382768342558" ignored="false" />
+    <file path="/MyRemoteTestDrive.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382766506775" ignored="false" />
+    <file path="/MyRemoteClient.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1382769062759" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,73 +214,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GumballMachine.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMachine.java">
+      <file leaf-file-name="GumballMachine.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="10" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.762069">
+            <state line="13" column="48" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyRemote.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12.Proxy/src/MyRemote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="16" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyRemoteImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12.Proxy/src/MyRemoteImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="38" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyRemoteClient.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12.Proxy/src/MyRemoteClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="84" selection-start="251" selection-end="262" vertical-scroll-proportion="0.17485714">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="GumballMonitor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMonitor.java">
+        <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/GumballMonitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="5" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NoQuarterState.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/NoQuarterState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="35" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0">
+            <state line="13" column="5" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="HasQuarterState.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/HasQuarterState.java">
+        <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/HasQuarterState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SoldOutState.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/SoldOutState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="632" selection-end="695" vertical-scroll-proportion="0.0">
+            <state line="4" column="13" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMachineTestDrive.java">
+        <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/GumballMachineTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="24" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WinnerState.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/WinnerState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GumballMachine.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11.State/src/GumballMachine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="30" selection-end="1624" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -293,11 +300,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/DinerMenu.java" />
-        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/PancakeHouseMenu.java" />
-        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/iterator/PancakeHouseMenu.java" />
-        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/composite/Menu.java" />
-        <option value="$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuItem.java" />
         <option value="$PROJECT_DIR$/10.Iterator and Composite/src/composite/NullIterator.java" />
         <option value="$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuComponent.java" />
         <option value="$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuTestDrive.java" />
@@ -309,6 +311,11 @@
         <option value="$PROJECT_DIR$/12.Proxy/src/GumballMachineTestDrive.java" />
         <option value="$PROJECT_DIR$/12.Proxy/src/NoQuarterState.java" />
         <option value="$PROJECT_DIR$/12.Proxy/src/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/12.Proxy/src/machine/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/12.Proxy/src/MyRemote.java" />
+        <option value="$PROJECT_DIR$/12.Proxy/src/MyRemoteTestDrive.java" />
+        <option value="$PROJECT_DIR$/12.Proxy/src/MyRemoteClient.java" />
+        <option value="$PROJECT_DIR$/12.Proxy/src/MyRemoteImpl.java" />
       </list>
     </option>
   </component>
@@ -451,7 +458,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -504,6 +510,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -520,12 +527,12 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -540,23 +547,7 @@
       <recent name="C:\Users\Женя\IdeaProjects\OOD\11.State\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GumballMachineTestDrive">
-    <configuration default="false" name="HomeTheatreTestDrive" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="HomeTheatreTestDrive" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="8.Facade" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MyRemoteTestDrive">
     <configuration default="false" name="BeverageTestDrive" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="BeverageTestDrive" />
       <option name="VM_PARAMETERS" />
@@ -606,12 +597,28 @@
       <method />
     </configuration>
     <configuration default="false" name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="GumballMachineTestDrive" />
+      <option name="MAIN_CLASS_NAME" value="machine.GumballMachineTestDrive" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="Seattle 112" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="12.Proxy" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyRemoteTestDrive" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MyRemoteTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -633,19 +640,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -673,6 +667,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -710,19 +717,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HomeTheatreTestDrive" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MyFrame" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyFrame" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MyRemoteTestDrive" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MyRemoteTestDrive" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
         <item index="2" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MyFrame" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -847,7 +854,11 @@
       <created>1382727158506</created>
       <updated>1382727158506</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add proxy">
+      <created>1382727164796</created>
+      <updated>1382727164796</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -872,7 +883,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -882,16 +893,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32740214" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32703003" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858837" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919957" sideWeight="0.67408234" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3259177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919957" sideWeight="0.67408234" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3259177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32740214" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32703003" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -972,118 +983,96 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="5" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="59" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/CompositeIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="19" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="55" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="24" column="55" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="103" selection-end="103" vertical-scroll-proportion="0.15711646">
-          <folding />
-        </state>
+        <state line="5" column="17" selection-start="103" selection-end="103" vertical-scroll-proportion="0.15711646" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10.Iterator and Composite/src/composite/MenuTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="39" selection-start="2697" selection-end="2697" vertical-scroll-proportion="0.71885717">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11.State/src/GumballMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="30" selection-end="1624" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="37" column="39" selection-start="2697" selection-end="2697" vertical-scroll-proportion="0.71885717" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/11.State/src/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="117" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="117" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="116" selection-end="116" vertical-scroll-proportion="0.15542857" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/NoQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="35" selection-start="720" selection-end="720" vertical-scroll-proportion="0.48682705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/GumballMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="5" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/State.java">
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/SoldOutState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="1" selection-start="116" selection-end="116" vertical-scroll-proportion="0.15542857">
+        <state line="18" column="49" selection-start="543" selection-end="543" vertical-scroll-proportion="0.35051546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/WinnerState.java">
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/WinnerState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.State/src/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="81" selection-start="202" selection-end="202" vertical-scroll-proportion="0.09736541" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMachineTestDrive.java">
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/machine/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="24" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+        <state line="13" column="48" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/HasQuarterState.java">
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/MyRemote.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+        <state line="3" column="16" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/SoldOutState.java">
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/MyRemoteImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="632" selection-end="695" vertical-scroll-proportion="0.0">
+        <state line="15" column="38" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/NoQuarterState.java">
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/MyRemoteClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="35" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMonitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/GumballMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="10" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.762069">
+        <state line="9" column="84" selection-start="251" selection-end="262" vertical-scroll-proportion="0.17485714">
           <folding />
         </state>
       </provider>

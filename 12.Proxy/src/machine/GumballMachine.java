@@ -1,3 +1,5 @@
+package machine;
+
 public class GumballMachine {
     String location;
     State soldOutState;

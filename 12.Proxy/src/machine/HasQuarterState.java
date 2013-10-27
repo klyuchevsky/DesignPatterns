@@ -1,3 +1,5 @@
+package machine;
+
 import java.util.Random;
 
 public class HasQuarterState implements State {
