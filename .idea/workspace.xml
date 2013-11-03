@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/imageProxy/Icon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageComponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageProxyTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/matchmaking/PersonBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/matchmaking/PersonBeanImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -32,7 +30,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1383498357753" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1383506332493" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -152,6 +150,8 @@
     <file path="/ImageProxy.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1383500704978" ignored="false" />
     <file path="/ImageProxyTestDrive.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1383504201129" ignored="false" />
     <file path="/ImageComponent.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1383501795293" ignored="false" />
+    <file path="/PersonBean.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1383507331936" ignored="false" />
+    <file path="/PersonBeanImpl.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1383507696082" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,47 +212,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ImageProxy.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageProxy.java">
+      <file leaf-file-name="PersonBean.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12.Proxy/src/matchmaking/PersonBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="16" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1020#1417#0" expanded="true" />
-                <element signature="e#1398#1399#0" expanded="true" />
-              </folding>
+            <state line="11" column="39" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageProxyTestDrive.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageProxyTestDrive.java">
+      <file leaf-file-name="PersonBeanImpl.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12.Proxy/src/matchmaking/PersonBeanImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="44" selection-start="2459" selection-end="2459" vertical-scroll-proportion="0.6786941">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2024#2302#0" expanded="true" />
-                <element signature="e#2287#2288#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageComponent.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageComponent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="35" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Icon.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.Proxy/src/imageProxy/Icon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="62" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+            <state line="29" column="49" selection-start="548" selection-end="548" vertical-scroll-proportion="0.5647194">
               <folding />
             </state>
           </provider>
@@ -281,8 +253,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/12.Proxy/src/machineRemote/machine/GumballMachineTestDrive.java" />
-        <option value="$PROJECT_DIR$/12.Proxy/src/machineRemote/State.java" />
         <option value="$PROJECT_DIR$/12.Proxy/src/machineRemote/NoQuarterState.java" />
         <option value="$PROJECT_DIR$/12.Proxy/src/machineRemote/SoldOutState.java" />
         <option value="$PROJECT_DIR$/12.Proxy/src/machineRemote/HasQuarterState.java" />
@@ -297,6 +267,8 @@
         <option value="$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageProxy.java" />
         <option value="$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageComponent.java" />
         <option value="$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageProxyTestDrive.java" />
+        <option value="$PROJECT_DIR$/12.Proxy/src/matchmaking/PersonBean.java" />
+        <option value="$PROJECT_DIR$/12.Proxy/src/matchmaking/PersonBeanImpl.java" />
       </list>
     </option>
   </component>
@@ -512,7 +484,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="imageProxy" />
+              <option name="myItemId" value="matchmaking" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -880,7 +852,11 @@
       <created>1383474582049</created>
       <updated>1383474582049</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add image proxy">
+      <created>1383506341236</created>
+      <updated>1383506341236</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -921,7 +897,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18943436" sideWeight="0.676307" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32369298" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32369298" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32703003" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -971,7 +947,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add rmi proxy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add image proxy" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -997,6 +973,7 @@
     <MESSAGE value="Add composite pattern with composite iterator" />
     <MESSAGE value="Add proxy" />
     <MESSAGE value="Add rmi proxy" />
+    <MESSAGE value="Add image proxy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1006,21 +983,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11.State/src/GumballMachineTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/machineRemote/NoQuarterState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/machineRemote/HasQuarterState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12.Proxy/src/machineRemote/SoldState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="14" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" />
@@ -1070,27 +1032,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/imageProxy/Icon.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/awt/Component.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="62" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+        <state line="3284" column="16" selection-start="113681" selection-end="113681" vertical-scroll-proportion="0.45017183">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageProxy.java">
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/imageProxy/Icon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="16" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1020#1417#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-          </folding>
+        <state line="11" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="35" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
+        <state line="23" column="5" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1099,12 +1057,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageProxyTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="44" selection-start="2459" selection-end="2459" vertical-scroll-proportion="0.6786941">
+        <state line="50" column="31" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2024#2302#0" expanded="true" />
-            <element signature="e#2287#2288#0" expanded="true" />
+            <element signature="e#2030#2308#0" expanded="true" />
+            <element signature="e#2293#2294#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/imageProxy/ImageProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="92" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1020#1417#0" expanded="true" />
+            <element signature="e#1398#1399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/matchmaking/PersonBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="39" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Proxy/src/matchmaking/PersonBeanImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="49" selection-start="548" selection-end="548" vertical-scroll-proportion="0.5647194">
+          <folding />
         </state>
       </provider>
     </entry>
