@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf710a3-bf6d-4bf4-93e9-13a4af844911" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/GumballMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/GumballMachineRemote.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/GumballMachineTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/GumballMonitor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/GumballMonitorTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/HasQuarterState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/NoQuarterState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/SoldOutState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/SoldState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/State.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12.Proxy/src/machineRemote/WinnerState.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOD.iws" />
@@ -39,7 +28,7 @@
     <file path="/WeatherStation.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371732913" ignored="false" />
     <file path="/CurrentConditionDisplay.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371371657102" ignored="false" />
     <file path="/SwingObserver.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371374191683" ignored="false" />
-    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1383469221338" ignored="false" />
+    <file path="/Dummy.txt" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1383474555642" ignored="false" />
     <file path="/Beverage.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371657003159" ignored="false" />
     <file path="/CondimentDecorator.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371744533008" ignored="false" />
     <file path="/Espresso.java" changelist="caf710a3-bf6d-4bf4-93e9-13a4af844911" time="1371655223739" ignored="false" />
@@ -824,7 +813,11 @@
       <created>1382727164796</created>
       <updated>1382727164796</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add rmi proxy">
+      <created>1383474564357</created>
+      <updated>1383474564357</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -915,7 +908,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add proxy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add rmi proxy" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -940,6 +933,7 @@
     <MESSAGE value="Add composite pattern." />
     <MESSAGE value="Add composite pattern with composite iterator" />
     <MESSAGE value="Add proxy" />
+    <MESSAGE value="Add rmi proxy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
